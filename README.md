@@ -1,2 +1,2 @@
 # Repo-scrape
-Repository scraper
+Repositories github scraper
