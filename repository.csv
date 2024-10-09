@@ -1,0 +1,15 @@
+Repositories,Repositories Url,Description,Files
+Repo-scrape -> Public,https://github.com/Fajarxyta/Repo-scrape,Repository scraper,"LICENSE, README.md, requirements.txt, run.py"
+Quote-App -> Public,https://github.com/Fajarxyta/Quote-App,Quote to scrape,"README.md, main.py, quote.json, requirements.txt"
+apikey -> Public,https://github.com/Fajarxyta/apikey,key,"README.md, key.txt"
+CreateAccountFacebook -> Public,https://github.com/Fajarxyta/CreateAccountFacebook,Auto create account Facebook,"img, LICENSE, README.md, Run.py"
+Created_AccountIG -> Public,https://github.com/Fajarxyta/Created_AccountIG,,"README.md, Run.py, randomagent.txt, requirements.txt"
+JFACBOOK -> Public,https://github.com/Fajarxyta/JFACBOOK,Premium bruteforce Facebook,".github/workflows, Data, README.md, Run.py, setup.sh"
+Facebook-tools -> Public,https://github.com/Fajarxyta/Facebook-tools,,"Dumps, Login, README.md"
+FAJINSTA -> Public,https://github.com/Fajarxyta/FAJINSTA,,"SFInsta, README.md, Run.py, UserAgent.txt, devapp.py"
+ConvertHeaders -> Public,https://github.com/Fajarxyta/ConvertHeaders,,"HeadersConvert.html, README.md"
+User-Agent-List -> Public,https://github.com/Fajarxyta/User-Agent-List,,"Useragents, img, README.md, agent.py"
+Bluesky -> Public,https://github.com/Fajarxyta/Bluesky,,"Data, .gitignore, LICENSE, README.md, Run.py"
+DivisorRecurse -> Public,https://github.com/Fajarxyta/DivisorRecurse,,"README.md, divisor_checker.py"
+Fajarxyta -> Public,https://github.com/Fajarxyta/Fajarxyta,,README.md
+FaceAutoShare -> Public,https://github.com/Fajarxyta/FaceAutoShare,Facebook Auto Share,"FaceTools, .gitignore, LICENSE, README.md, Run.py, requirements.txt"
