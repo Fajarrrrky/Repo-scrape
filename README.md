@@ -39,7 +39,7 @@ Ini adalah proyek Python yang digunakan untuk mengambil daftar repositories dari
 4. **Jalankan Program:**
     Setelah dependencies terinstal, Anda bisa langsung menjalankan program dengan menggunakan:
     ```bash
-    python main.py
+    python run.py
     ```
 
 ## Cara Penggunaan
@@ -56,14 +56,14 @@ Ini adalah proyek Python yang digunakan untuk mengambil daftar repositories dari
 
 4. Jika Anda memilih untuk meng-clone, repository akan di-clone ke dalam direktori `Peyimpanan/` di dalam folder proyek Anda.
 
-5. Pada akhirnya, program akan menyimpan informasi repository ke dalam file `repositories_info.csv` di direktori proyek.
+5. Pada akhirnya, program akan menyimpan informasi repository ke dalam file `repository.csv` di direktori proyek.
 
 ## Struktur Proyek
 
 ```bash
 .
-├── Penyimpanan/          # Folder penyimpanan repository yang di-clone
-├── run.py                # File utama yang berisi script Python
+├── Penyimpanan/           # Folder penyimpanan repository yang di-clone
+├── run.py                 # File utama yang berisi script Python
 ├── README.md              # Dokumentasi proyek
-├── repositories_info.csv  # File CSV berisi informasi repository (dihasilkan setelah scraping)
+├── repository.csv         # File CSV berisi informasi repository (dihasilkan setelah scraping)
 └── requirements.txt       # File yang berisi dependencies untuk proyek
