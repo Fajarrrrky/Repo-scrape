@@ -14,7 +14,7 @@ Ini adalah proyek Python yang digunakan untuk mengambil daftar repositories dari
 
 1. **Clone repository ini** (jika Anda belum mendownload kodenya):
     ```bash
-    git clone https://github.com/Fajarxyta/Repo-scrape
+    git clone https://github.com/Fajarrrrky/Repo-scrape
     ```
 
 2. **Masuk ke direktori proyek:**
